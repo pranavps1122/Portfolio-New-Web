@@ -659,12 +659,13 @@ span{
 
 .blog-box img{
     width: 450px;
+    height: 250px;
    
    margin-bottom: 50px;
    margin-top: -72px;
 }
 .blog-item p{
-    font-size: 17px;
+    font-size: 18px;
 
 }
 
@@ -747,12 +748,10 @@ home-img{
     width: px;
     
     margin-left: -200px;
-}    
-
-
+}  
    
   
-@media(max-width:480px){
+@media(max-width:500px){
     #menu-icon{
        display: block;
    
