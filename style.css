@@ -112,14 +112,12 @@ span{
     margin-top: 1.5rem;
     line-height: 1;
 }
-.home-img{
-    border-radius: 50%;
-}
+
 .home-img img{
     position: relative;
     top: -2rem;
-    width: 369px;
-    height: 389px;
+    width: 320px;
+    height: 330px;
     border-radius: 70%;
     box-shadow: 0 0 28px var(--main-color);
     cursor: pointer;
